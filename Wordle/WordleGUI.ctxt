@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WordleGUI
+comment1.params=gameLogic\ wordBank
+comment1.target=WordleGUI(GameLogic,\ WordBank)
+comment2.params=
+comment2.target=void\ initializeUI()
+comment3.params=
+comment3.target=javax.swing.JTextField\ createTextField()
+comment4.params=field
+comment4.target=void\ setupTextField(javax.swing.JTextField)
+comment5.params=attemptNumber\ guess\ feedback
+comment5.target=void\ updateGridWithFeedback(int,\ java.lang.String,\ java.util.List)
+comment6.params=hasWon
+comment6.target=void\ showGameOverMessage(boolean)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

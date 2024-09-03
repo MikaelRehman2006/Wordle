@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PuzzleGame
+comment1.params=answer
+comment1.target=PuzzleGame(java.lang.String)
+comment2.params=
+comment2.target=boolean\ isGameOver()
+comment3.params=gameIsOver
+comment3.target=void\ setGameOver(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getAnswer()
+comment5.params=guess
+comment5.target=java.util.List\ guessWord(java.lang.String)
+numComments=6

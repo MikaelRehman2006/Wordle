@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WordBank
+comment1.params=
+comment1.target=java.util.Map\ getWordsByLetter()
+comment2.params=
+comment2.target=WordBank()
+comment3.params=
+comment3.target=void\ initializeWordBank()
+comment4.params=
+comment4.target=void\ initializeWordHints()
+comment5.params=word
+comment5.target=java.lang.String\ getHintForWord(java.lang.String)
+comment6.params=word
+comment6.target=boolean\ isValidWord(java.lang.String)
+comment7.params=letter
+comment7.target=java.util.Set\ getWordsStartingWith(char)
+numComments=8

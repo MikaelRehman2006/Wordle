@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameLogic
+comment1.params=wordBank
+comment1.target=GameLogic(WordBank)
+comment2.params=wordBank
+comment2.target=java.lang.String\ generateAnswer(WordBank)
+comment3.params=guess
+comment3.target=java.util.List\ guessWord(java.lang.String)
+comment4.params=guess
+comment4.target=java.util.List\ evaluateGuess(java.lang.String)
+comment5.params=guess
+comment5.target=boolean\ isWordCorrect(java.lang.String)
+numComments=6
