@@ -1,1 +1,2 @@
-# Wordle
+- Developed a Wordle game clone using Java with a Swing-based GUI, incorporating various data structures to manage game logic and operations, including word storage, letter mapping, and game state tracking.- Developed a Wordle game clone using Java with a Swing-based GUI, incorporating various data structures to manage game logic and operations, including word storage, letter mapping, and game state tracking.
+Skills: Java · Graphical User Interface (GUI) · Data Structures · Object-Oriented Programming (OOP) · Java Swing
